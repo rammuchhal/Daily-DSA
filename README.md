@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
+| [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rammuchhal/Daily-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rammuchhal/Daily-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rammuchhal/Daily-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/rammuchhal/Daily-DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
