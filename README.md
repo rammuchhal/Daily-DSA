@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,8 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 <!---LeetCode Topics End-->
