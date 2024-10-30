@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rammuchhal/Daily-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/rammuchhal/Daily-DSA/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rammuchhal/Daily-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/rammuchhal/Daily-DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -142,10 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+## Binary Search
+|  |
+| ------- |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 <!---LeetCode Topics End-->
