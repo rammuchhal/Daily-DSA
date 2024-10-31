@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1256-rank-transform-of-an-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rammuchhal/Daily-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
