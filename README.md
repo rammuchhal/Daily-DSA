@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/rammuchhal/Daily-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rammuchhal/Daily-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
