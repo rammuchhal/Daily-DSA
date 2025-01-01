@@ -1,4 +1,4 @@
-class Solution {
+class Soln {
 public:
     vector<int> resultsArray(vector<int>& nums, int k) {
         int length = nums.size();
