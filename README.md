@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rammuchhal/Daily-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rammuchhal/Daily-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2465-shifting-letters-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/2465-shifting-letters-ii) |
 | [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rammuchhal/Daily-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rammuchhal/Daily-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2465-shifting-letters-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rammuchhal/Daily-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rammuchhal/Daily-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/rammuchhal/Daily-DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rammuchhal/Daily-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rammuchhal/Daily-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
+| [2465-shifting-letters-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rammuchhal/Daily-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Monotonic Queue
 |  |
