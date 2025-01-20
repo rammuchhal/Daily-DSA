@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2685-first-completely-painted-row-or-column](https://github.com/rammuchhal/Daily-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rammuchhal/Daily-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2716-prime-subtraction-operation](https://github.com/rammuchhal/Daily-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rammuchhal/Daily-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rammuchhal/Daily-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rammuchhal/Daily-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/rammuchhal/Daily-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rammuchhal/Daily-DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rammuchhal/Daily-DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2685-first-completely-painted-row-or-column](https://github.com/rammuchhal/Daily-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
