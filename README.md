@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rammuchhal/Daily-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
+| [2145-grid-game](https://github.com/rammuchhal/Daily-DSA/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rammuchhal/Daily-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rammuchhal/Daily-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/rammuchhal/Daily-DSA/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rammuchhal/Daily-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rammuchhal/Daily-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rammuchhal/Daily-DSA/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rammuchhal/Daily-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/rammuchhal/Daily-DSA/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
 | [2465-shifting-letters-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rammuchhal/Daily-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
