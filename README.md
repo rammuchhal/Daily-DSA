@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rammuchhal/Daily-DSA/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/rammuchhal/Daily-DSA/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rammuchhal/Daily-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rammuchhal/Daily-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/rammuchhal/Daily-DSA/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/rammuchhal/Daily-DSA/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rammuchhal/Daily-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Shortest Path
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/rammuchhal/Daily-DSA/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/rammuchhal/Daily-DSA/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/rammuchhal/Daily-DSA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rammuchhal/Daily-DSA/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
