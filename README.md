@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rammuchhal/Daily-DSA/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rammuchhal/Daily-DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/rammuchhal/Daily-DSA/tree/master/0198-house-robber) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/rammuchhal/Daily-DSA/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
