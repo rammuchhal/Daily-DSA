@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rammuchhal/Daily-DSA/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/rammuchhal/Daily-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0854-making-a-large-island](https://github.com/rammuchhal/Daily-DSA/tree/master/0854-making-a-large-island) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rammuchhal/Daily-DSA/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/rammuchhal/Daily-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rammuchhal/Daily-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
