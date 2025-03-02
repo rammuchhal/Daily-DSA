@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rammuchhal/Daily-DSA/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/rammuchhal/Daily-DSA/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/rammuchhal/Daily-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/rammuchhal/Daily-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rammuchhal/Daily-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rammuchhal/Daily-DSA/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/rammuchhal/Daily-DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rammuchhal/Daily-DSA/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1170-shortest-common-supersequence](https://github.com/rammuchhal/Daily-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rammuchhal/Daily-DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
