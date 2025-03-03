@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/rammuchhal/Daily-DSA/tree/master/2145-grid-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rammuchhal/Daily-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rammuchhal/Daily-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rammuchhal/Daily-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rammuchhal/Daily-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rammuchhal/Daily-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/rammuchhal/Daily-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rammuchhal/Daily-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rammuchhal/Daily-DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rammuchhal/Daily-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rammuchhal/Daily-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/rammuchhal/Daily-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rammuchhal/Daily-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
