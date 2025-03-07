@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rammuchhal/Daily-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/rammuchhal/Daily-DSA/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rammuchhal/Daily-DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1755-defuse-the-bomb](https://github.com/rammuchhal/Daily-DSA/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/rammuchhal/Daily-DSA/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1129-longest-string-chain](https://github.com/rammuchhal/Daily-DSA/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rammuchhal/Daily-DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rammuchhal/Daily-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rammuchhal/Daily-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/rammuchhal/Daily-DSA/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/rammuchhal/Daily-DSA/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rammuchhal/Daily-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/rammuchhal/Daily-DSA/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rammuchhal/Daily-DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/rammuchhal/Daily-DSA/tree/master/2554-minimum-total-distance-traveled) |
