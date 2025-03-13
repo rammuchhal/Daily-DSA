@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rammuchhal/Daily-DSA/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rammuchhal/Daily-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rammuchhal/Daily-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2716-prime-subtraction-operation](https://github.com/rammuchhal/Daily-DSA/tree/master/2716-prime-subtraction-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3643-zero-array-transformation-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
 | [2465-shifting-letters-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rammuchhal/Daily-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
