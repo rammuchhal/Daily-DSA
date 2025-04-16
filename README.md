@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rammuchhal/Daily-DSA/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/rammuchhal/Daily-DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rammuchhal/Daily-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rammuchhal/Daily-DSA/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rammuchhal/Daily-DSA/tree/master/2308-divide-array-into-equal-pairs) |
 | [2342-minimum-average-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/2342-minimum-average-difference) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rammuchhal/Daily-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/rammuchhal/Daily-DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rammuchhal/Daily-DSA/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rammuchhal/Daily-DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/rammuchhal/Daily-DSA/tree/master/2690-house-robber-iv) |
@@ -558,4 +560,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rammuchhal/Daily-DSA/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
