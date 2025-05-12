@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/rammuchhal/Daily-DSA/tree/master/0057-insert-interval) |
+| [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rammuchhal/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/rammuchhal/Daily-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/rammuchhal/Daily-DSA/tree/master/1129-longest-string-chain) |
