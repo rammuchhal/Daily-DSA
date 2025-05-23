@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rammuchhal/Daily-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/rammuchhal/Daily-DSA/tree/master/1129-longest-string-chain) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/rammuchhal/Daily-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/rammuchhal/Daily-DSA/tree/master/0670-maximum-swap) |
