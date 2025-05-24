@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rammuchhal/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/rammuchhal/Daily-DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/rammuchhal/Daily-DSA/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/rammuchhal/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
