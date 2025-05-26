@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rammuchhal/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rammuchhal/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rammuchhal/Daily-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/rammuchhal/Daily-DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rammuchhal/Daily-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rammuchhal/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/rammuchhal/Daily-DSA/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/rammuchhal/Daily-DSA/tree/master/0768-partition-labels) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rammuchhal/Daily-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/rammuchhal/Daily-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/rammuchhal/Daily-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/rammuchhal/Daily-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
