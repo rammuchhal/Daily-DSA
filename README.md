@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rammuchhal/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/rammuchhal/Daily-DSA/tree/master/0155-min-stack) |
 | [1002-maximum-width-ramp](https://github.com/rammuchhal/Daily-DSA/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/rammuchhal/Daily-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rammuchhal/Daily-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rammuchhal/Daily-DSA/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rammuchhal/Daily-DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rammuchhal/Daily-DSA/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
