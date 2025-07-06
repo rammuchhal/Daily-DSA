@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rammuchhal/Daily-DSA/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/rammuchhal/Daily-DSA/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rammuchhal/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rammuchhal/Daily-DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rammuchhal/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rammuchhal/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/rammuchhal/Daily-DSA/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/rammuchhal/Daily-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/rammuchhal/Daily-DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rammuchhal/Daily-DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [1002-maximum-width-ramp](https://github.com/rammuchhal/Daily-DSA/tree/master/1002-maximum-width-ramp) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rammuchhal/Daily-DSA/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/rammuchhal/Daily-DSA/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rammuchhal/Daily-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rammuchhal/Daily-DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rammuchhal/Daily-DSA/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/rammuchhal/Daily-DSA/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/rammuchhal/Daily-DSA/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/rammuchhal/Daily-DSA/tree/master/1396-count-servers-that-communicate) |
