@@ -14,24 +14,19 @@
  * }
  */
 class Solution {
-    public int getMinDepth(Integer mini,int depth,TreeNode root){
-        if(root==null) return mini;
+    public int getMinDepth(int depth,TreeNode root){
+        if(root==null) return Integer.MAX_VALUE;
         if(root.left==root.right){
-            mini = Math.min(mini,depth+1);
-            return mini;
+            return depth+1;
         }
 
         depth++;
-        mini=getMinDepth(mini,depth,root.left);
-        mini=getMinDepth(mini,depth,root.right);
-        return mini;
+        int left=getMinDepth(depth,root.left);
+        int right=getMinDepth(depth,root.right);
+        return Math.min(left,right);
     }
     public int minDepth(TreeNode root) {
         if(root==null) return 0;
-        Integer mini=Integer.MAX_VALUE;
-        int depth=0;
-
-        return getMinDepth(mini,depth,root);
-        // return mini;
+        return getMinDepth(0,root);
     }
 }
