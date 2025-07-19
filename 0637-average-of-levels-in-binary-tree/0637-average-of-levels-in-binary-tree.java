@@ -14,26 +14,29 @@
  * }
  */
 class Solution {
-    public List<Double> averageOfLevels(TreeNode root) {
-        List<Double> ans=new ArrayList<>();
-        if(root==null) return ans;
-
-        Queue<TreeNode> q=new LinkedList<>();
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            int size=q.size();
-            Double avg=0.00;
-
-            for(int i=0;i<size;i++){
-                TreeNode node=q.peek();
-                q.poll();
-                avg+=node.val;
-                if(node.left!=null) q.offer(node.left);
-                if(node.right!=null) q.offer(node.right);
-            }
-            ans.add(avg/size);
+    void inOrder(TreeNode root,List<Double> sum,List<Integer> sizes,int level){
+        if(root==null) return;
+        if(level==sum.size()){
+            sum.add(0.00);
+            sizes.add(0);
         }
-        return ans;
+
+        inOrder(root.left,sum,sizes,level+1);
+
+        sum.set(level,sum.get(level)+root.val);
+        sizes.set(level,sizes.get(level)+1);
+
+        inOrder(root.right,sum,sizes,level+1);
+    }
+    public List<Double> averageOfLevels(TreeNode root) {
+        List<Double> avg=new ArrayList<>();
+        List<Integer> sizes=new ArrayList<>();
+
+        inOrder(root,avg,sizes,0);
+
+        for(int i=0;i<avg.size();i++){
+            avg.set(i,avg.get(i)/sizes.get(i));
+        }
+        return avg;
     }
 }
