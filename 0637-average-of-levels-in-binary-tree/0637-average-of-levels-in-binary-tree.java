@@ -14,13 +14,6 @@
  * }
  */
 class Solution {
-    Double getAvg(ArrayList<Integer> lvl){
-        Double avg=0.00;
-        for(int num:lvl){
-            avg+=num;
-        }
-        return avg/lvl.size();
-    }
     public List<Double> averageOfLevels(TreeNode root) {
         List<Double> ans=new ArrayList<>();
         if(root==null) return ans;
