@@ -14,41 +14,19 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> levelOrder(TreeNode root) {
+    private List<List<Integer>> inOrder(TreeNode root,List<List<Integer>> ans,int level){
+        if(root==null) return ans;
         
-        List<List<Integer>> lvlOdrTrv
-                                =new ArrayList<>();
-        Queue<TreeNode> q=new LinkedList<>();
+        if(ans.size()==level) ans.add(new ArrayList<>());
+        ans=inOrder(root.left,ans,level+1);
+        ans.get(level).add(root.val);
+        ans=inOrder(root.right,ans,level+1);
 
-        if(root==null) return lvlOdrTrv;
-
-        q.offer(root);
-        int highestVal=Integer.MAX_VALUE;
-        TreeNode dummy=new TreeNode(highestVal);
-        q.offer(dummy);
-
+        return ans;
+    }
+    public List<List<Integer>> levelOrder(TreeNode root) {
         int level=0;
-        lvlOdrTrv.add(new ArrayList<>());
-
-        while(!q.isEmpty()){
-            TreeNode temp=q.peek();
-            q.poll();
-
-            if(temp.val==highestVal){
-                if(!q.isEmpty()){
-                    lvlOdrTrv.add(new ArrayList<>());
-                    q.offer(dummy);
-                    level++;
-                }
-            }
-            else{
-                if(temp.left!=null) q.offer(temp.left);
-                if(temp.right!=null) q.offer(temp.right);
-
-                lvlOdrTrv.get(level).add(temp.val);
-            }
-
-        }
-        return lvlOdrTrv;
+        List<List<Integer>> ans=new ArrayList<>();
+        return inOrder(root,ans,level);
     }
 }
