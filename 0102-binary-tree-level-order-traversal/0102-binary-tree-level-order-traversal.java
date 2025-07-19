@@ -15,16 +15,16 @@
  */
 class Solution {
     List<List<Integer>> ans=new ArrayList<>();
-    private void inOrder(TreeNode root,int level){
+    private void preOrder(TreeNode root,int level){
         if(root==null) return;
         
         if(ans.size()==level) ans.add(new ArrayList<>());
-        inOrder(root.left,level+1);
         ans.get(level).add(root.val);
-        inOrder(root.right,level+1);
+        preOrder(root.left,level+1);
+        preOrder(root.right,level+1);
     }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        inOrder(root,0);
+        preOrder(root,0);
         return ans;
     }
 }
