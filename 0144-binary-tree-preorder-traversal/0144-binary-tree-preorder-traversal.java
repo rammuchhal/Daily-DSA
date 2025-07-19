@@ -20,15 +20,17 @@ class Solution {
         TreeNode temp=root;
 
         while(temp!=null || !s.isEmpty()){
-            while(temp!=null){
+            if(temp!=null){
                 ans.add(temp.val);
                 s.push(temp);
                 temp=temp.left;
             }
-            temp=s.peek();
-            s.pop();
+            else{
+                temp=s.peek();
+                s.pop();
 
-            temp=temp.right;
+                temp=temp.right;
+            }
         }
         return ans;
     }
