@@ -14,30 +14,25 @@
  * }
  */
 class Solution {
-    public int preOrder(int count,TreeNode root){
-        if(root==null) return count;
- 
-        count=preOrder(count,root.left);
-        count=preOrder(count,root.right);
-        count++;
-        return count;
+    int getDepth(TreeNode root){ //it works as complete tree 
+        int depth=0;
+        while(root!=null){
+            depth++;
+            root=root.left;
+        }
+        return depth;
     }
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        int count=0;
-        Queue<TreeNode> q=new LinkedList<>();
+        
+        int leftDepth=getDepth(root.left);
+        int rightDepth=getDepth(root.right);
 
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            TreeNode front=q.peek();
-            q.poll();
-
-            count++;
-            if(front.left!=null) q.offer(front.left);
-            if(front.right!=null) q.offer(front.right);
+        if(leftDepth==rightDepth){
+            return (1 << leftDepth) + countNodes(root.right);
         }
-
-        return count;
+        else{
+            return (1<<rightDepth)+countNodes(root.left);
+        }
     }
 }
