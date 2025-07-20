@@ -23,7 +23,21 @@ class Solution {
         return count;
     }
     public int countNodes(TreeNode root) {
+        if(root==null) return 0;
         int count=0;
-        return preOrder(count,root);
+        Queue<TreeNode> q=new LinkedList<>();
+
+        q.offer(root);
+
+        while(!q.isEmpty()){
+            TreeNode front=q.peek();
+            q.poll();
+
+            count++;
+            if(front.left!=null) q.offer(front.left);
+            if(front.right!=null) q.offer(front.right);
+        }
+
+        return count;
     }
 }
