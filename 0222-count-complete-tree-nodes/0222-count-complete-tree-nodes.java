@@ -14,16 +14,16 @@
  * }
  */
 class Solution {
-    public int inOrder(int count,TreeNode root){
+    public int preOrder(int count,TreeNode root){
         if(root==null) return count;
-
-        count=inOrder(count,root.left);
+ 
+        count=preOrder(count,root.left);
+        count=preOrder(count,root.right);
         count++;
-        count=inOrder(count,root.right);
         return count;
     }
     public int countNodes(TreeNode root) {
         int count=0;
-        return inOrder(count,root);
+        return preOrder(count,root);
     }
 }
