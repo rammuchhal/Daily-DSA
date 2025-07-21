@@ -14,8 +14,25 @@
  * }
  */
 class Solution {
+    int depth(TreeNode root){
+        int depth=0;
+        while(root!=null){
+            root=root.left;
+            depth++;
+        }
+        return depth;
+    }
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        return 1+countNodes(root.left)+countNodes(root.right);
+
+        int leftHeight=depth(root.left);
+        int rightHeight=depth(root.right);
+
+        if(leftHeight==rightHeight){
+            return (1<<leftHeight)+countNodes(root.right);
+        }
+        else{
+            return (1<<rightHeight)+countNodes(root.left);
+        }
     }
 }
