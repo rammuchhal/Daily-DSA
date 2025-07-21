@@ -19,9 +19,8 @@ class Solution {
             stk.push(i);
         }
         stk.clear();
-
         for(int i=n-1;i>=0;i--){
-            while(!stk.isEmpty() && arr[stk.peek()]> arr[i]){
+            while(!stk.isEmpty() && arr[stk.peek()]>arr[i]){
                 stk.pop();
             }
             if(!stk.isEmpty()){
@@ -30,12 +29,12 @@ class Solution {
             stk.push(i);
         }
 
-        int mod= (int)1e9+7;
+        int mod = (int)1e9+7;
         long answer=0;
 
         for(int i=0;i<n;i++){
-            answer+=  (long) (i-left[i])*(right[i]-i)%mod * arr[i] % mod;
-            answer %= mod;
+            answer += (long) (i-left[i])*(right[i]-i)%mod *arr[i]%mod;
+            answer%=mod;
         }
         return (int)answer;
     }
