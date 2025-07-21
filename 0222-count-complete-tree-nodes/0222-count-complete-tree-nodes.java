@@ -14,25 +14,8 @@
  * }
  */
 class Solution {
-    int getDepth(TreeNode root){ //it works as complete tree 
-        int depth=0;
-        while(root!=null){
-            depth++;
-            root=root.left;
-        }
-        return depth;
-    }
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        
-        int leftDepth=getDepth(root.left);
-        int rightDepth=getDepth(root.right);
-
-        if(leftDepth==rightDepth){
-            return (1 << leftDepth) + countNodes(root.right);
-        }
-        else{
-            return (1<<rightDepth)+countNodes(root.left);
-        }
+        return 1+countNodes(root.left)+countNodes(root.right);
     }
 }
