@@ -14,20 +14,19 @@
  * }
  */
 class Solution {
-    public int getDiameter(TreeNode root,int[] ans){
+    public int getDiameter(TreeNode root,AtomicInteger ans){
         if(root==null) return 0;
 
         int leftSubTree=getDiameter(root.left,ans);
         int rightSubTree=getDiameter(root.right,ans);
 
-        if( (leftSubTree+rightSubTree)>ans[0] ){
-            ans[0]=leftSubTree+rightSubTree;
-        }
+        ans.set(Math.max(ans.get(),leftSubTree+rightSubTree));
+
         return 1+Math.max(leftSubTree,rightSubTree);
     }
     public int diameterOfBinaryTree(TreeNode root) {
-        int[] ans=new int[1];
+        AtomicInteger ans=new AtomicInteger(0);
         getDiameter(root,ans);
-        return ans[0];
+        return ans.get();
     }
 }
