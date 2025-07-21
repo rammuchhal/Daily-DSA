@@ -17,24 +17,18 @@ class Solution {
     List<List<Integer>> getPathSum(List<List<Integer>> ans,
                                     ArrayList<Integer> path,TreeNode root,int sum){
         if(root==null) return ans;
-        if(root.left==root.right){
-            if(root.val==sum){
-                path.add(root.val);
-                ans.add(new ArrayList<>(path));
-                path.remove(path.size()-1);
-            }
-            return ans;
+        path.add(root.val);
+
+        if(root.left==root.right && root.val==sum){
+                ans.add(new ArrayList<>(path)); //path ka ref use horha h func me so
+        }                                   //we passed a copy of path 
+        else{
+            getPathSum(ans,path,root.left,sum-root.val);
+            getPathSum(ans,path,root.right,sum-root.val);
         }
 
-        sum-=root.val;
-        path.add(root.val);
-        ans=getPathSum(ans,path,root.left,sum);
-
-        ans=getPathSum(ans,path,root.right,sum);
         path.remove(path.size()-1);
-
         return ans;
-
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans=new ArrayList<>();
