@@ -23,16 +23,18 @@ class Solution {
 
         while(!q.isEmpty()){
             int size=q.size();
-            ArrayList<Integer> temp=new ArrayList<>();
+            ArrayList<Integer> temp=new ArrayList<>(Collections.nCopies(size, 0));
 
             for(int i=0;i<size;i++){
                 TreeNode front=q.peek();
                 q.poll();
                 if(front.left!=null) q.offer(front.left);
                 if(front.right!=null) q.offer(front.right);
-                temp.add(front.val);
+
+                int idx=(isEven==true)? i:size-i-1;
+                temp.set(idx,front.val);
             }
-            if(!isEven) Collections.reverse(temp);
+            // if(!isEven) Collections.reverse(temp);
             zigzaglvl.add(temp);
             isEven = !isEven;
         }
