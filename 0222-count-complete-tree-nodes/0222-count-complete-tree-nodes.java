@@ -31,8 +31,6 @@ class Solution {
         if(leftHeight==rightHeight){
             return (1<<leftHeight)+countNodes(root.right);
         }
-        else{
             return (1<<rightHeight)+countNodes(root.left);
-        }
     }
 }
