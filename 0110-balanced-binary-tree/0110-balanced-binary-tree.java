@@ -14,15 +14,15 @@
  * }
  */
 class Pair{
-    int height;
+    Integer height;
     boolean isBalanced;
-    Pair(int height,boolean isBalanced){
+    Pair(Integer height,boolean isBalanced){
         this.height=height;
         this.isBalanced=isBalanced;
     }
 }
 class Solution {
-    public Pair getAns(TreeNode root){
+    Pair getAns(TreeNode root){
         if(root==null) return new Pair(0,true);
 
         Pair left=getAns(root.left);
@@ -35,6 +35,7 @@ class Solution {
         boolean isBalanced=Math.abs(left.height-right.height)<=1;
 
         return new Pair(height,isBalanced);
+
     }
     public boolean isBalanced(TreeNode root) {
         return getAns(root).isBalanced;
