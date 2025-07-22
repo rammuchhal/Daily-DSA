@@ -14,21 +14,16 @@
  * }
  */
 class Solution {
-    private void getRightView(TreeNode root,int lvl,Map<Integer,Integer> map){
+    private void getRightView(TreeNode root,int lvl,List<Integer> ans){
         if(root==null) return;
 
-        map.put(lvl,root.val);
-        getRightView(root.left,lvl+1,map);
-        getRightView(root.right,lvl+1,map);
+        if(lvl==ans.size()) ans.add(root.val);
+        getRightView(root.right,lvl+1,ans);
+        getRightView(root.left,lvl+1,ans);
     }
     public List<Integer> rightSideView(TreeNode root) {
-        Map<Integer,Integer> map=new TreeMap<>();
-        getRightView(root,0,map);
-
         List<Integer> ans=new ArrayList<>();
-        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-            ans.add(entry.getValue());
-        }
+        getRightView(root,0,ans);
         return ans;
     }
 }
