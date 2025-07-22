@@ -14,25 +14,21 @@
  * }
  */
 class Solution {
+    private void getRightView(TreeNode root,int lvl,Map<Integer,Integer> map){
+        if(root==null) return;
+
+        map.put(lvl,root.val);
+        getRightView(root.left,lvl+1,map);
+        getRightView(root.right,lvl+1,map);
+    }
     public List<Integer> rightSideView(TreeNode root) {
-        Queue<TreeNode> q=new LinkedList<>();
-        List<Integer> rightView=new ArrayList<>();
+        Map<Integer,Integer> map=new TreeMap<>();
+        getRightView(root,0,map);
 
-        if(root==null) return rightView;
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            int size=q.size();
-            int lvlNode=0;
-
-            for(int i=0;i<size;i++){
-                TreeNode front=q.poll();
-                lvlNode=front.val;
-                if(front.left!=null) q.offer(front.left);
-                if(front.right!=null) q.offer(front.right);
-            }
-            rightView.add(lvlNode);
+        List<Integer> ans=new ArrayList<>();
+        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
+            ans.add(entry.getValue());
         }
-        return rightView;
+        return ans;
     }
 }
