@@ -1,19 +1,17 @@
 class Solution {
-    int getWays(int i,int[] dp){
-        if(i<=2) return i;
-
-        if(dp[i]!=-1) return dp[i];
-        
-        int oneStep=getWays(i-1,dp);
-        int twoStep=getWays(i-2,dp);
-
-        return dp[i]=oneStep+twoStep;
-    }
     public int climbStairs(int n) {
-        int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
+        if(n<=2) return n;
 
-        return getWays(n,dp);
+        int prev=1;
+        int curr=1;
+
+        for(int i=2;i<=n;i++){
+            int nxtVal=curr+prev;
+            prev=curr;
+            curr=nxtVal;
+        }
+
+        return curr;
 
     }
 }
