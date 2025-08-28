@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rammuchhal/Daily-DSA/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rammuchhal/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/rammuchhal/Daily-DSA/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/rammuchhal/Daily-DSA/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/rammuchhal/Daily-DSA/tree/master/0539-minimum-time-difference) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rammuchhal/Daily-DSA/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rammuchhal/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/rammuchhal/Daily-DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/rammuchhal/Daily-DSA/tree/master/0120-triangle) |
@@ -754,5 +756,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rammuchhal/Daily-DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rammuchhal/Daily-DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
